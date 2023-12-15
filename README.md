@@ -17,4 +17,4 @@
 
 
 
-[linkedin]:www.linkedin.com/in/josh-martinez-0736502a2
+[linkedin]: https://www.linkedin.com/in/josh-martinez-0736502a2
